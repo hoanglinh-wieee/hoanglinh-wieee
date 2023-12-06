@@ -6,3 +6,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=hoanglinh-wieee&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
 
+<p align="center"><a href="https://github.com/Thienguen/"><img src="http://randojs.com/images/barsSmallTransparentBackground.gif" alt="Animated footer bars" width="100%"/></a></p>

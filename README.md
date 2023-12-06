@@ -7,6 +7,4 @@
 # GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=hoanglinh-wieee&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
